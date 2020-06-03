@@ -37,14 +37,7 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
 
 5. DIAGRAMAS
 
-Los diagramas hacen referencia a una representación visual de lo que se ha desarrollado enfocado al software y al hardware. Los diagramas son:
-* Diagramas de bloques.
-* Diagramas UML. (casos de uso-clase)
-* Diagramas eléctricos.
-* Diagramas esquemáticos.
-
-Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicación de los circuitos.
-! [](https://github.com/BriandaLema/Laboratorio1/blob/img/Diagrama%201.png)
+! [](https://github.com/BriandaLema/Laboratorio1/blob/master/img/Diagrama%201.png)
 
 
 
