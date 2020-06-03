@@ -74,31 +74,26 @@ El mismo programa nos guía y asesora acerca de lo que realizamos, por lo cual l
 
 Para complementar la correcta cuantificacion de valores calculados y valores medidos se utilizo una aplicación más denominada Multisim, que es un programa que se debe instalar en un sistema inteligente para poder hacer una grafica y simulación de un circuito.
 
-
-7.- APORTACIONES
-
-En este punto se indicará todo lo adicional fruto de lo investigado que se haya agregado al trabajo.
-
-
-8.- CONCLUSIONES
+7.- CONCLUSIONES
 
 Las leyes de voltaje y corriente de Kirchhoff son herramientas esenciales para la resolución de circuitos electrónicos, que ayuda a determinar valores de voltaje y corriente en el mismo, y así poder analizar gran variedad de circuitos eléctricos.
 
 Hay una pequeña diferencia entre los valores medidos y calculados, se podría dar por dos razones : al momento de medir con el multímetro los valores de  los voltajes y  las corrientes, intervienen las tolerancias de las resistencias, y esto podría afectar a los valores obtenidos; mientras que en los valores calculados intervienen los decimales al momento de ir desarrollando los cálculos correspondientes,  lo cual también afectaría los valores que vamos obteniendo. 
 
-9.- RECOMENDACIONES
+8.- RECOMENDACIONES
 
 Consideramos importante el recomendar un mejor sistema de explicación acerca del trabajo a realizar.
 
 Una recomendación fundamental que proponemos es el ampliar la busqueda de simuladores para poder realizar los laboratios virtuales, pues al no encontrarnos fisicamente con algunos componentes se nos hace mas complejo un correcto aprendizaje 
 
-10. BIBLIOGRAFÍA
+9.- BIBLIOGRAFÍA
 
 Charles, A., & Matthew, S. (2006). Fundamentos de circuitos eléctricos. México, D.F.: McGraw-Hill/Interamericana Editores, S.A. de C.V.
 
 GÓMEZ, A. J. (2009). Fundamentos de Circuitos. Bogotá: Ediciones Uniandes.
 
-11.- ANEXOS
+10.- ANEXOS
+
 ![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/Terrific%20Albar.png)
 
 ![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/Calculo%20de%20intensidad%20y%20voltaje1.jpg)
@@ -114,8 +109,7 @@ GÓMEZ, A. J. (2009). Fundamentos de Circuitos. Bogotá: Ediciones Uniandes.
 ![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/C%C3%A1lculo%20LCK2.jpg)
 
 
-
-11,1.- HOJAS TÉCNICAS
+10,1.- HOJAS TECNICAS
 
 https://github.com/BriandaLema/Laboratorio1/tree/master/Hojas%20t%C3%A9cnicas
 
