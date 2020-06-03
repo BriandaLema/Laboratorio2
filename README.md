@@ -103,4 +103,7 @@ GÓMEZ, A. J. (2009). Fundamentos de Circuitos. Bogotá: Ediciones Uniandes.
 
 11,1.- HOJAS TÉCNICAS
 
+![](https://github.com/BriandaLema/Laboratorio1/tree/master/Hojas%20t%C3%A9cnicas)
+
+
 
