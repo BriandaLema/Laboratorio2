@@ -23,13 +23,6 @@ Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley 
 
 Hallar el corriente total del circuito por mediante la resolcuion de la ley de kirchoff de voltajes
 
-El estado del arte describe las investigaciones más recientes y actuales que sobre un tema en específico se han realizado. 
-La descripción  es un texto académico que expone sistemáticamente los avances existentes acerca de un tema y es de carácter más cualitativo, en el que se detallan los resultados y enfoques de las investigaciones en torno al tema que cada investigación ha abonado al tema de estudio de interés del investigador que elabora el estado del arte. La descripción gira en torno esencial a cuatro elementos: 
-
-* Quién? El investigador que desarrolló estudio. 
-* Cuándo? El año en que se publicaron los resultados del estudio. Aunque sabemos anticipadamente que el estudio debió de haber sido desarrollado con anterioridad mínima a un año generalmente.
-* ¿Qué? El objeto de estudio. Es aquí
-
 4. MARCO TEÓRICO 
 
 Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
