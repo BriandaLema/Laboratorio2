@@ -34,8 +34,6 @@ Tomemos en cuenta que la ca√≠da de voltaje sucede cuando el voltaje pasa a trav√
 ![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/Diagrama%201.png)
 
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama4.jpg)
-
 
 6. LISTA DE COMPONENTES
 
