@@ -39,7 +39,7 @@ Tomemos en cuenta que la caída de voltaje sucede cuando el voltaje pasa a trav�
 
 3. DIAGRAMAS
 
-Para este laboratorio se utilizó un circuito mixto
+Para este laboratorio se utilizó un circuito mixto en donde encontramos que las resistencias R2 y  la suma de las resistencias R4 y  R3  hacen un circuito en paralelo y las resistencias restantes forman un circuito en serie, esta unión de dos circuitos es lo que nos hace llamarlo  MIXTO
 
 ![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/Diagrama%201.png)
 
