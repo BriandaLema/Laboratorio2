@@ -31,17 +31,8 @@ Tomemos en cuenta que la caída de voltaje sucede cuando el voltaje pasa a trav�
 
 3. DIAGRAMAS
 
-Los diagramas hacen referencia a una representación visual de lo que se ha desarrollado enfocado al software y al hardware. Los diagramas son:
-* Diagramas de bloques.
-* Diagramas UML. (casos de uso-clase)
-* Diagramas eléctricos.
-* Diagramas esquemáticos.
+![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/Diagrama%201.png)
 
-Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicación de los circuitos.
-
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
-
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama2.jpg)
 
 ![](https://github.com/doalulema/Informe/blob/master/img/Diagrama4.jpg)
 
