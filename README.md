@@ -35,26 +35,25 @@ Tomemos en cuenta que la caída de voltaje sucede cuando el voltaje pasa a trav�
 
 
 
-6. LISTA DE COMPONENTES
+4. LISTA DE COMPONENTES
 
 1 Fuente de Voltaje 
+
 2 Multímetros digitales 
+
 1 Resistencia de 1 kΩ
+
 2 resistores de 2,2 kΩ
+
 1 Resistencia de 1,8 kΩ
+
 1 resistencia de 3,9 kΩ
+
 1 Protoboard
 
 
+5. EXPLICACIÓN CÓDIGO DE FUENTE
 
-7. MAPA DE VARIABLES
-
-Este punto hace referencia a las variables que se emplean dentro de un programa, las cuales deben ser indicadas en la captura de una pantalla si son componentes visuales o especificados en una taba sin no son visibles en una interface. Se debe hacer referencia al tipo y la función que desempeñan en la aplicación.
-
-
-8. EXPLICACIÓN DEL CÓDIGO FUENTE
-
-En este punto se debe explicar cómo funcionan la implementación del programa, explicando los valores que requiere y los valores que devuelve.
 
 
 9.- DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
@@ -84,4 +83,6 @@ Una recomendación fundamental que proponemos es el ampliar la busqueda de simul
 14. ANEXOS
 
 
+
 14,1 HOJAS TÉCNICAS
+
