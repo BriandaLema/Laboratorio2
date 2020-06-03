@@ -44,6 +44,9 @@ Para este laboratorio se utilizó un circuito mixto en donde encontramos que las
 ![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/Diagrama%201.png)
 
 
+![](https://github.com/BriandaLema/Laboratorio1/tree/master/Hojas%20t%C3%A9cnicas)
+
+
 
 4. LISTA DE COMPONENTES
 
@@ -101,13 +104,10 @@ GÓMEZ, A. J. (2009). Fundamentos de Circuitos. Bogotá: Ediciones Uniandes.
 
 11.- ANEXOS
 
-![]_(https://github.com/BriandaLema/Laboratorio1/blob/master/img/Terrific%20Albar.png)
-
-
 
 11,1.- HOJAS TÉCNICAS
 
-
+https://github.com/BriandaLema/Laboratorio1/tree/master/Hojas%20t%C3%A9cnicas
 
 
 
