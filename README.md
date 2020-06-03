@@ -1,6 +1,6 @@
 LABORATORIO # 01
 
-TEMA: lEYES DE KIRCHHOFF
+TEMA: LEYES DE KIRCHHOFF
 
 
 1. PLANTEAMIENTO DEL PROBLEMA
@@ -25,20 +25,41 @@ Hallar el corriente total del circuito por mediante la resolcuion de la ley de k
 
 3. MARCO TEÓRICO
 
-Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
+LEYES DE KIRCHHOFF
 
-Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
-* Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
-* Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
-* Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
-* Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
+Las leyes de Kirchhoff fueron planteadas por Gustav Kirchhoff en 1845, en la actualidad son muy utilizadas en la física eléctrica para obtener los valores de la corriente y voltaje en cada uno de los puntos de un circuito eléctrico.
+Estas leyes escriben el comportamiento de la corriente en un nodo , y el voltaje alrededor de una trayectoria cerrada, estos dos planteamientos , junto con las ecuaciones de componentes individuales como resistores, capacitores, entre otros, obtenemos un conjunto de herramientas básicas para el análisis de circuitos.
 
-Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar  mentefactos, cuadro comparativos, esquemas o mapas conceptuales
+LEY DE CORRIENTE DE KIRCHHOFF 
+
+La ley de corriente de Kirchhoff (LCK) establece que la suma algebraica de todas las corrientes que ingresan hacia un nodo es igual a la suma algebraica de las corrientes que salen del nodo. Es decir: 
+
+∑i(ingresan)=∑i(salen)
+
+LEY DE VOLTAJE DE KIRCHHOFF
+
+La ley de voltaje de Kirchhoff (LVK) establece que la suma algebraica de las caídas de voltaje en una trayectoria cerrada es igual a cero. Es decir: 
+
+∑Vi(t)=0
+
+Tomemos en cuenta que la caída de voltaje sucede cuando el voltaje pasa a través de un componente y a su salida obtiene un valor menor que el inicial.
+
 
 5. DIAGRAMAS
 
-! [](https://github.com/BriandaLema/Laboratorio1/blob/master/img/Diagrama%201.png)
+Los diagramas hacen referencia a una representación visual de lo que se ha desarrollado enfocado al software y al hardware. Los diagramas son:
+* Diagramas de bloques.
+* Diagramas UML. (casos de uso-clase)
+* Diagramas eléctricos.
+* Diagramas esquemáticos.
 
+Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicación de los circuitos.
+
+![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+
+![](https://github.com/doalulema/Informe/blob/master/img/Diagrama2.jpg)
+
+![](https://github.com/doalulema/Informe/blob/master/img/Diagrama4.jpg)
 
 
 6. LISTA DE COMPONENTES
@@ -76,7 +97,22 @@ Se estable las conclusiones de cada asunto investigado, implicaciones para la te
 Se establecen en función del proyecto y constituyen la base para un funcionamiento adecuado.
 
 
-13.BIBLIOGRAFÍA
+13. CRONOGRAMA
+
+El estudiante detalla cada una de las tareas y actividades que va a ejecutar durante el desarrollo de su trabajo. Este cronograma debe representarse gráficamente mediante un   “DIAGRAMA DE GANTT”, el cual de ser desarrollado con MICROSOFT PROJECT.
+
+![](https://github.com/doalulema/Informe/blob/master/img/Diagrama5.jpg)
+
+14. BIBLIOGRAFÍA
+
+Emplear normas APA para el informe e IEEE para el artículo
 
 15. ANEXOS
-15.1 HOJAS TÉCNICAS
+
+15.1 MANUAL DE USUARIO
+
+Constituye un documento en el cual se ilustra con imágenes y un lenguaje claro cómo utilizar la aplicación, evitando mencionar código. Además debe presentar como armar, instalar o conectar la aplicación, evitando los esquemas circuitales.
+
+15.2 HOJAS TÉCNICAS
+
+ 
