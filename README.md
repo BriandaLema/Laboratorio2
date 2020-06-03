@@ -64,7 +64,14 @@ Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicaci�
 
 6. LISTA DE COMPONENTES
 
-En este punto se indicará en una tabla todos los recursos que se han empleado para su desarrollo y todos los componentes electrónicos si fuera el caso.
+1 Fuente de Voltaje 
+2 Multímetros digitales 
+1 Resistencia de 1 kΩ
+2 resistores de 2,2 kΩ
+1 Resistencia de 1,8 kΩ
+1 resistencia de 3,9 kΩ
+1 Protoboard
+
 
 
 7. MAPA DE VARIABLES
@@ -97,22 +104,7 @@ Se estable las conclusiones de cada asunto investigado, implicaciones para la te
 Se establecen en función del proyecto y constituyen la base para un funcionamiento adecuado.
 
 
-13. CRONOGRAMA
+13. BIBLIOGRAFÍA
 
-El estudiante detalla cada una de las tareas y actividades que va a ejecutar durante el desarrollo de su trabajo. Este cronograma debe representarse gráficamente mediante un   “DIAGRAMA DE GANTT”, el cual de ser desarrollado con MICROSOFT PROJECT.
-
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama5.jpg)
-
-14. BIBLIOGRAFÍA
-
-Emplear normas APA para el informe e IEEE para el artículo
-
-15. ANEXOS
-
-15.1 MANUAL DE USUARIO
-
-Constituye un documento en el cual se ilustra con imágenes y un lenguaje claro cómo utilizar la aplicación, evitando mencionar código. Además debe presentar como armar, instalar o conectar la aplicación, evitando los esquemas circuitales.
-
-15.2 HOJAS TÉCNICAS
-
- 
+14. ANEXOS
+14,1 HOJAS TÉCNICAS
