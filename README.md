@@ -1,4 +1,6 @@
-# Informe
+LABORATORIO # 01
+
+TEMA: RECONOCIMIENTO DE ELEMENTOS ELÉCTRICOS E INSTRUMENTOS DE MEDICIÓN EN LABORATORIO
 
 
 Para la presentación de los trabajos se establecererá el día y la hora máxima de fecha de entrega, para el efecto se creará un foro en el cual los estudiantes participarán con un mensaje indicando sus nombres completos, el tipo de actividad, el tema y el link del repositorio.
