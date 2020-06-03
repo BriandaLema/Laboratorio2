@@ -107,7 +107,11 @@ GÓMEZ, A. J. (2009). Fundamentos de Circuitos. Bogotá: Ediciones Uniandes.
 
 ![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/Calculo%20de%20intensidad%20y%20voltaje3.jpg)
 
+![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/C%C3%A1lculo%20LVK.jpg)
 
+![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/C%C3%A1lculo%20LCK.jpg)
+
+![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/C%C3%A1lculo%20LCK2.jpg)
 
 
 
