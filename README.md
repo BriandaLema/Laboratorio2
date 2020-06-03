@@ -44,10 +44,6 @@ Para este laboratorio se utilizó un circuito mixto en donde encontramos que las
 ![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/Diagrama%201.png)
 
 
-![](https://github.com/BriandaLema/Laboratorio1/tree/master/Hojas%20t%C3%A9cnicas)
-
-
-
 4. LISTA DE COMPONENTES
 
 1 Fuente de Voltaje 
@@ -103,6 +99,7 @@ Charles, A., & Matthew, S. (2006). Fundamentos de circuitos eléctricos. México
 GÓMEZ, A. J. (2009). Fundamentos de Circuitos. Bogotá: Ediciones Uniandes.
 
 11.- ANEXOS
+![](https://github.com/BriandaLema/Laboratorio1/tree/master/Hojas%20t%C3%A9cnicas)
 
 
 11,1.- HOJAS TÉCNICAS
