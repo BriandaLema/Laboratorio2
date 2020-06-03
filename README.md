@@ -83,8 +83,9 @@ En este punto se indicará todo lo adicional fruto de lo investigado que se haya
 
 8.- CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+Las leyes de voltaje y corriente de Kirchhoff son herramientas esenciales para la resolución de circuitos electrónicos, que ayuda a determinar valores de voltaje y corriente en el mismo, y así poder analizar gran variedad de circuitos eléctricos.
 
+Hay una pequeña diferencia entre los valores medidos y calculados, se podría dar por dos razones : al momento de medir con el multímetro los valores de  los voltajes y  las corrientes, intervienen las tolerancias de las resistencias, y esto podría afectar a los valores obtenidos; mientras que en los valores calculados intervienen los decimales al momento de ir desarrollando los cálculos correspondientes,  lo cual también afectaría los valores que vamos obteniendo. 
 
 9.- RECOMENDACIONES
 
@@ -93,6 +94,10 @@ Consideramos importante el recomendar un mejor sistema de explicación acerca de
 Una recomendación fundamental que proponemos es el ampliar la busqueda de simuladores para poder realizar los laboratios virtuales, pues al no encontrarnos fisicamente con algunos componentes se nos hace mas complejo un correcto aprendizaje 
 
 10. BIBLIOGRAFÍA
+
+Charles, A., & Matthew, S. (2006). Fundamentos de circuitos eléctricos. México, D.F.: McGraw-Hill/Interamericana Editores, S.A. de C.V.
+
+GÓMEZ, A. J. (2009). Fundamentos de Circuitos. Bogotá: Ediciones Uniandes.
 
 11.- ANEXOS
 
