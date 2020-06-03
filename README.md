@@ -101,7 +101,12 @@ GÓMEZ, A. J. (2009). Fundamentos de Circuitos. Bogotá: Ediciones Uniandes.
 11.- ANEXOS
 ![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/Terrific%20Albar.png)
 
-![](https://github.com/BriandaLema/Laboratorio1/blob/master/Video/Como%20armar%20el%20Circuito.mp4)
+![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/Calculo%20de%20intensidad%20y%20voltaje1.jpg)
+
+![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/Calculo%20de%20intensidad%20y%20voltaje2.jpg)
+
+![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/Calculo%20de%20intensidad%20y%20voltaje3.jpg)
+
 
 
 
