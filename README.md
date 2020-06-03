@@ -86,6 +86,7 @@ Se estable las conclusiones de cada asunto investigado, implicaciones para la te
 12. RECOMENDACIONES
 
 Consideramos importante el recomendar un mejor sistema de explicación acerca del trabajo a realizar.
+
 Una recomendación fundamental que proponemos es el ampliar la busqueda de simuladores para poder realizar los laboratios virtuales, pues al no encontrarnos fisicamente con algunos componentes se nos hace mas complejo un correcto aprendizaje 
 
 
