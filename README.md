@@ -1,6 +1,6 @@
 LABORATORIO # 01
 
-TEMA: LEYES DE KIRCHHOFF
+TEMA: lEYES DE KIRCHHOFF
 
 
 1. PLANTEAMIENTO DEL PROBLEMA
@@ -44,12 +44,8 @@ Los diagramas hacen referencia a una representación visual de lo que se ha desa
 * Diagramas esquemáticos.
 
 Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicación de los circuitos.
+! [](https://github.com/BriandaLema/Laboratorio1/blob/img/Diagrama%201.png)
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
-
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama2.jpg)
-
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama4.jpg)
 
 
 6. LISTA DE COMPONENTES
