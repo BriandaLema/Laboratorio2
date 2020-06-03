@@ -54,35 +54,31 @@ Tomemos en cuenta que la caída de voltaje sucede cuando el voltaje pasa a trav�
 
 5. EXPLICACIÓN CÓDIGO DE FUENTE
 
+6.- DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
-
-9.- DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
 En este punto se debe especificar las aplicaciones secundarias necesarias, la configuración del terminal, así como cualquier otra información necesaria para que pueda funcionar el proyecto, tanto en hardware como en software.
 
-
-10. APORTACIONES
+7.- APORTACIONES
 
 En este punto se indicará todo lo adicional fruto de lo investigado que se haya agregado al trabajo.
 
 
-11. CONCLUSIONES
+8.- CONCLUSIONES
 
 Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
 
 
-12. RECOMENDACIONES
+9.- RECOMENDACIONES
 
 Consideramos importante el recomendar un mejor sistema de explicación acerca del trabajo a realizar.
 
 Una recomendación fundamental que proponemos es el ampliar la busqueda de simuladores para poder realizar los laboratios virtuales, pues al no encontrarnos fisicamente con algunos componentes se nos hace mas complejo un correcto aprendizaje 
 
+10. BIBLIOGRAFÍA
 
-13. BIBLIOGRAFÍA
+11.- ANEXOS
 
-14. ANEXOS
+11,1.- HOJAS TÉCNICAS
 
-
-
-14,1 HOJAS TÉCNICAS
 
