@@ -23,7 +23,7 @@ Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley 
 
 Hallar el corriente total del circuito por mediante la resolcuion de la ley de kirchoff de voltajes
 
-4. MARCO TEÓRICO 
+3. MARCO TEÓRICO
 
 Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
 
