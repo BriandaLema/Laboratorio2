@@ -3,12 +3,6 @@ LABORATORIO # 01
 TEMA: RECONOCIMIENTO DE ELEMENTOS ELÉCTRICOS E INSTRUMENTOS DE MEDICIÓN EN LABORATORIO
 
 
-Para la presentación de los trabajos se establecererá el día y la hora máxima de fecha de entrega, para el efecto se creará un foro en el cual los estudiantes participarán con un mensaje indicando sus nombres completos, el tipo de actividad, el tema y el link del repositorio.
-
-Para la calificación cada grupo debe generar una hoja de cálculo con las matrices de calificación y debe compartir el documento con doalulema@espe.edu.ec
-
-
-
 1. PLANTEAMIENTO DEL PROBLEMA
 
 Formular correctamente un problema consiste básicamente, en reducirlo a sus aspectos y relaciones esenciales. Debe ser formulado con precisión, en una o varias preguntas concretas donde se relacionen las variables implicadas, por ejemplo: ¿qué efecto?, ¿en qué condiciones...?, ¿cuál es la probabilidad de...?, ¿cómo se relaciona... con...?, etc. 
