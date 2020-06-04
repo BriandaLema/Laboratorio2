@@ -9,7 +9,7 @@ TEMA: LEYES DE KIRCHHOFF
 
 * Observar como se efectua un circuito mixto en condiciones simuladas y teoricas.
 
-**1,2.-ESPECÍFICOS
+**1,2.-ESPECÍFICOS**
 
 * Hallar las corrientes y voltajes de cada elemento del sistema.
 
@@ -17,18 +17,18 @@ TEMA: LEYES DE KIRCHHOFF
 
 ## 2. MARCO TEÓRICO 
 
-LEYES DE KIRCHHOFF
+**LEYES DE KIRCHHOFF**
 
 Las leyes de Kirchhoff fueron planteadas por Gustav Kirchhoff en 1845, en la actualidad son muy utilizadas en la física eléctrica para obtener los valores de la corriente y voltaje en cada uno de los puntos de un circuito eléctrico.
 Estas leyes escriben el comportamiento de la corriente en un nodo , y el voltaje alrededor de una trayectoria cerrada, estos dos planteamientos , junto con las ecuaciones de componentes individuales como resistores, capacitores, entre otros, obtenemos un conjunto de herramientas básicas para el análisis de circuitos.
 
-LEY DE CORRIENTE DE KIRCHHOFF 
+**LEY DE CORRIENTE DE KIRCHHOFF** 
 
 La ley de corriente de Kirchhoff (LCK) establece que la suma algebraica de todas las corrientes que ingresan hacia un nodo es igual a la suma algebraica de las corrientes que salen del nodo. Es decir: 
 
 ∑i(ingresan)=∑i(salen)
 
-LEY DE VOLTAJE DE KIRCHHOFF
+**LEY DE VOLTAJE DE KIRCHHOFF**
 
 La ley de voltaje de Kirchhoff (LVK) establece que la suma algebraica de las caídas de voltaje en una trayectoria cerrada es igual a cero. Es decir: 
 
@@ -37,13 +37,13 @@ La ley de voltaje de Kirchhoff (LVK) establece que la suma algebraica de las ca�
 Tomemos en cuenta que la caída de voltaje sucede cuando el voltaje pasa a través de un componente y a su salida obtiene un valor menor que el inicial.
 
 
-3. DIAGRAMAS
+## 3. DIAGRAMAS
 
 Para este laboratorio se utilizó un circuito mixto en donde encontramos que las resistencias R2 y  la suma de las resistencias R4 y  R3  hacen un circuito en paralelo y las resistencias restantes forman un circuito en serie, esta unión de dos circuitos es lo que nos hace llamarlo  MIXTO
 
 ![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/Terrific%20Albar.png)
 
-4. LISTA DE COMPONENTES
+## 4. LISTA DE COMPONENTES
 
 1 Fuente de Voltaje 
 
@@ -60,7 +60,7 @@ Para este laboratorio se utilizó un circuito mixto en donde encontramos que las
 1 Protoboard
 
 
-5. EXPLICACIÓN CÓDIGO DE FUENTE
+## 5. EXPLICACIÓN CÓDIGO DE FUENTE
 
 Para este laboratorio utilizamos el simulador de Tinkercad , el cual es un sofware de diseño de circuitos, en este dispositivo encontramos una gama alta de componentes electrónicos que se utilizan para la creación de circuitos y simular su funcionamiento.
 Tinkercad funciona directamente en un navegador web moderno por lo cual una conexión a internet es fundamental para la utilización de esta fuente. 
@@ -69,20 +69,22 @@ El mismo programa nos guía y asesora acerca de lo que realizamos, por lo cual l
 
 
 
-6.- DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
+## 6.- DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
 Para complementar la correcta cuantificacion de valores calculados y valores medidos se utilizo una aplicación más denominada Multisim, que es un programa que se debe instalar en un sistema inteligente para poder hacer una grafica y simulación de un circuito.
 
-7.- CONCLUSIONES
+## 7.- CONCLUSIONES
 
-ANÁLISIS DE RESULTADOS Y CÁLCULO DEL ERROR
+**ANÁLISIS DE RESULTADOS Y CÁLCULO DEL ERROR**
 
-RESULTADOS OBTENIDOS DE VOLTAJE Y CORRIENTE EN CADA ELEMENTO DEL CIRCUITO 
+- RESULTADOS OBTENIDOS DE VOLTAJE Y CORRIENTE EN CADA ELEMENTO DEL CIRCUITO 
 
 | VARIABLE | VALOR CALCULADO | VALOR MEDIDO |
 | ------------- | ------------- | ------------- |
 | VR1 (V)  | 2.0544 V  |    2.05 V|
 | IR1 (mA)  |  |
+
+- CÁLCULO DEL ERROR 
 
 %error=((Valor teórico-Valor medido)
 
