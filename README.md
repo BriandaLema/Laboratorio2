@@ -41,8 +41,7 @@ Tomemos en cuenta que la caída de voltaje sucede cuando el voltaje pasa a trav�
 
 Para este laboratorio se utilizó un circuito mixto en donde encontramos que las resistencias R2 y  la suma de las resistencias R4 y  R3  hacen un circuito en paralelo y las resistencias restantes forman un circuito en serie, esta unión de dos circuitos es lo que nos hace llamarlo  MIXTO
 
-![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/Diagrama%201.png)
-
+                 ![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/Terrific%20Albar.png)
 
 4. LISTA DE COMPONENTES
 
@@ -93,8 +92,6 @@ Charles, A., & Matthew, S. (2006). Fundamentos de circuitos eléctricos. México
 GÓMEZ, A. J. (2009). Fundamentos de Circuitos. Bogotá: Ediciones Uniandes.
 
 10.- ANEXOS
-
-![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/Terrific%20Albar.png)
 
 ![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/Calculo%20de%20intensidad%20y%20voltaje1.jpg)
 
