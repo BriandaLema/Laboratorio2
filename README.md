@@ -1,21 +1,21 @@
-LABORATORIO # 01
+# LABORATORIO # 01
 
 TEMA: LEYES DE KIRCHHOFF
-1. OBJETIVOS
+## 1. OBJETIVOS
 
-1,1.- GENERALES 
+###### 1,1.- GENERALES 
 
 * Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes. 
 
 * Observar como se efectua un circuito mixto en condiciones simuladas y teoricas.
 
-1,2.-ESPECÍFICOS
+###### 1,2.-ESPECÍFICOS
 
 * Hallar las corrientes y voltajes de cada elemento del sistema.
 
 * Distinguir las mallas, los nodos y las ramas del sistema
 
-2. MARCO TEÓRICO 
+## 2. MARCO TEÓRICO 
 
 LEYES DE KIRCHHOFF
 
@@ -85,7 +85,7 @@ RESULTADOS OBTENIDOS DE VOLTAJE Y CORRIENTE EN CADA ELEMENTO DEL CIRCUITO
 | IR1 (mA)  |  |
 
 %error=((Valor teórico-Valor medido)
-|----------|
+
 Valor teórico)*100
 
 %error=((
