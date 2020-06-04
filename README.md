@@ -79,10 +79,10 @@ ANÁLISIS DE RESULTADOS Y CÁLCULO DEL ERROR
 
 RESULTADOS OBTENIDOS DE VOLTAJE Y CORRIENTE EN CADA ELEMENTO DEL CIRCUITO 
 
-| Primer encabezado | Segundo encabezado |
-| ------------- | ------------- |
-| Contenido de la celda  | Contenido de la celda  |
-| Contenido de la celda  | Contenido de la celda  |
+| VARIABLE | VALOR CALCULADO | VALOR MEDIDO |
+| ------------- | ------------- | ------------- |
+| VR1 (V)  | 2.0544 V  |  2.05 V|
+| IR1 (mA)  |  |
 
 %error=((Valor teórico-Valor medido)/Valor teórico)*100
 
