@@ -3,13 +3,13 @@
 TEMA: LEYES DE KIRCHHOFF
 ## 1. OBJETIVOS
 
-###### 1,1.- GENERALES 
+**1,1.- GENERALES** 
 
 * Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes. 
 
 * Observar como se efectua un circuito mixto en condiciones simuladas y teoricas.
 
-###### 1,2.-ESPECÍFICOS
+**1,2.-ESPECÍFICOS
 
 * Hallar las corrientes y voltajes de cada elemento del sistema.
 
