@@ -92,7 +92,23 @@ Para complementar la correcta cuantificacion de valores calculados y valores med
 | VR5 (V)  | 3.6979 V  |  3.70 V  |
 | IR5 (mA)  |  2.0544 mA  |  2.05 mA  |
 
-- CÁLCULO DEL ERROR 
+- CÁLCULO DEL ERROR DEL VOLTAJE 
+
+∑(Voltaje calculado)= (2.0544 + 4.2475 + 2.1235 + 2.1235 + 3.6979) V
+∑(Voltaje calculado)= 14.2468 V
+
+∑(Voltaje medido)= (2.05 + 4.25 + 2.12 + 2.12 + 3.70) V
+∑(Voltaje medido)= 14.24 V
+
+∑(Corriente calculado)= (2.0544 + 1.089 + 0.9653 + 0.9653 + 2.0544) mA
+∑(Corriente calculado)= 7.1284 mA
+
+∑(Corriente medido)= (2.05 + 1.09 + 0.956 + 0.965 + 2.05) mA
+∑(Corriente medido)= 7.111 mA
+
+
+
+
 
 %error=((Valor teórico-Valor medido)/Valor teórico)*100
 
