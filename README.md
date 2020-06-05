@@ -118,10 +118,18 @@ Para complementar la correcta cuantificacion de valores calculados y valores med
 
 ∑(Corriente medido)= 7.111 mA
 
+%error=((Valor teórico-Valor medido)/Valor teórico)* 100
 
-Las leyes de voltaje y corriente de Kirchhoff son herramientas esenciales para la resolución de circuitos electrónicos, que ayuda a determinar valores de voltaje y corriente en el mismo, y así poder analizar gran variedad de circuitos eléctricos.
+%error=((7.1284 mA - 7.111 mA)/ 7.1284 mA)* 100
+
+%error= 0.244 % 
+
+Como podemos observar los valores de la corriente y voltaje en cada elemento del circuito calculados con las leyes de Kirchhoff son muy aproximados a los valores medidos, ya que el porcentaje de error del voltaje y la corriente son menores al 1%
+.
+Las leyes de voltaje y corriente de Kirchhoff son herramientas esenciales para la resolución de circuitos eléctricos,ya que nos ayudan a determinar valores de voltaje y corriente y resolver sin mayores complicaciones circuitos eléctricos que serían demasiado complejos de analizar y así poder analizar gran variedad de circuitos eléctricos.
 
 Hay una pequeña diferencia entre los valores medidos y calculados, se podría dar por dos razones : al momento de medir con el multímetro los valores de  los voltajes y  las corrientes, intervienen las tolerancias de las resistencias, y esto podría afectar a los valores obtenidos; mientras que en los valores calculados intervienen los decimales al momento de ir desarrollando los cálculos correspondientes,  lo cual también afectaría los valores que vamos obteniendo. 
+ g
 
 8.- RECOMENDACIONES
 
