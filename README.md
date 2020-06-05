@@ -79,10 +79,7 @@ Para complementar la correcta cuantificacion de valores calculados y valores med
 
 - RESULTADOS OBTENIDOS DE VOLTAJE Y CORRIENTE EN CADA ELEMENTO DEL CIRCUITO 
 
-| VARIABLE | VALOR CALCULADO | VALOR MEDIDO |
-| ------------- | ------------- | ------------- |
-| VR1 (V)  | 2.0544 V  |    2.05 V|
-| IR1 (mA)  |  |
+
 
 - CÁLCULO DEL ERROR 
 
