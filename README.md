@@ -147,17 +147,20 @@ Así mismo se recomienda cerciorarse de que la implementación de circuito este 
 
 Finalmente sugerimos implementar adecuadamente el uso del multímetro para el cálculo de los voltajes y amperios.
 
-## 12. BIBLIOGRAFÍA
+## 12. CRONOGRAMA
+
+
+## 13. BIBLIOGRAFÍA
 
 Charles, A., & Matthew, S. (2006). Fundamentos de circuitos eléctricos. México, D.F.: McGraw-Hill/Interamericana Editores, S.A. de C.V.
 
 GÓMEZ, A. J. (2009). Fundamentos de Circuitos. Bogotá: Ediciones Uniandes.
 
-## 13.- ANEXOS
+## 14.- ANEXOS
 
 https://github.com/BriandaLema/Laboratorio1/blob/master/Anexos/ANEXOS.pdf
 
-## 13,1.- HOJAS TECNICAS
+## 14,1.- HOJAS TECNICAS
 
 https://github.com/BriandaLema/Laboratorio1/tree/master/Hojas%20t%C3%A9cnicas
 
