@@ -89,10 +89,17 @@ Para complementar la correcta cuantificacion de valores calculados y valores med
 
 - VERIFICACIÓN DE LA LVK
 
-| VOLTAJE | TRAYECTORIA 1 | TRAYECTORIA 2 | TRAYECTORIA 3|
-|-----|-----|-----|------|
-| CALCULADO | MEDIDO | CALCULADO | MEDIDO | CALCULADO | MEDIDO | 
-|----------|------|-------|-------|------|-------|
+TRAYECTORIA 1 
+
+| VOLTAJE | CALCULADO | MEDIDO |
+|----------|------|-------|
+| VT (V) | 10.002 | 10 |
+| VR1 (V) | 2.055 | 2.05 | 
+| VR2 (V) | 4.248 | 4.25 |
+| VR3 (V) | - | - |
+| VR4 (V) | - | - | 
+| VR5 (V) | 3.699 | 3.70 | 
+| ∑ V | -10.002 | -10 |
 
 - RESULTADOS OBTENIDOS DE VOLTAJE Y CORRIENTE EN CADA ELEMENTO DEL CIRCUITO 
 
