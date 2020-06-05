@@ -15,7 +15,7 @@ TEMA: LEYES DE KIRCHHOFF
 
 ## 2. PLANTEAMIENTO DEL PROBLEMA
 
-Este proyecto consistió en la implementación de un circuito electrónico virtual en un programa online denominado Tinkercad con la finalidad de experimentar una simulación del circuito donde podemos denotar el cálculo de las de voltajes y corrientes en los resistores al medir con un voltímetro y un amperímetro cada uno de ellos, para consecutivamente compararlo con la medición manual de los valores teóricos de corriente y voltaje en cada resistor, mediante un sistema de ecuaciones que se formaron al realizar la ley de mallas. 
+Este proyecto consistió en la implementación de un circuito electrónico virtual en un programa online denominado Tinkercad con la finalidad de experimentar una simulación del circuito donde podemos denotar el cálculo de las de voltajes y corrientes en los resistores al medir con un voltímetro y un amperímetro cada uno de ellos, para consecutivamente compararlo con la medición manual de los valores teóricos de corriente y voltaje en cada resistor, mediante un sistema de ecuaciones que se formaron al realizar las leyes de Kirchhoff 
 
 
 ## 3. MARCO TEÓRICO 
@@ -145,6 +145,7 @@ Hay una pequeña diferencia entre los valores medidos y calculados, se podría d
 Recomendamos el asegurarse del correcto cálculo de los valores de manera clara y ordenada, de lo contrario, tendríamos un % de error excesivo.
 Así mismo se recomienda cerciorarse de que la implementación de circuito este correctamente elaborado y conectado a una fuente de energía para poder procede a la medición de datos virtuales.
 
+Finalmente sugerimos implementar adecuadamente el uso del multímetro para el cálculo de los voltajes y amperios.
 
 ## 12. BIBLIOGRAFÍA
 
