@@ -90,6 +90,7 @@ Para complementar la correcta cuantificacion de valores calculados y valores med
 - VERIFICACIÓN DE LA LVK
 
 | VOLTAJE | TRAYECTORIA 1 | TRAYECTORIA 2 | TRAYECTORIA 3|
+|-----|-----|-----|------|
 | CALCULADO | MEDIDO | CALCULADO | MEDIDO | CALCULADO | MEDIDO | 
 |----------|------|-------|-------|------|-------|
 
