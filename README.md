@@ -7,13 +7,11 @@ TEMA: LEYES DE KIRCHHOFF
 
 * Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes. 
 
-* Observar como se efectua un circuito mixto en condiciones simuladas y teoricas.
-
 **1,2.-ESPECÍFICOS**
 
-* Hallar las corrientes y voltajes de cada elemento del sistema.
-
-* Distinguir las mallas, los nodos y las ramas del sistema
+* Observar como se efectua un circuito mixto en condiciones simuladas y teoricas.
+* Identificar las diferencias de calculo entre un circuito simulado y teorico.
+* Differenciar cuales son las mallas, los nodos y las ramas del sistema.
 
 ## 2. MARCO TEÓRICO 
 
