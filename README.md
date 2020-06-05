@@ -124,7 +124,7 @@ Para complementar la correcta cuantificacion de valores calculados y valores med
 
 %error= 0.244 % 
 
-Como podemos observar los valores de la corriente y voltaje en cada elemento del circuito calculados con las leyes de Kirchhoff son muy aproximados a los valores medidos, ya que el porcentaje de error del voltaje y la corriente son menores al 1%.
+Como podemos observar los valores de la corriente y voltaje en cada elemento del circuito calculados con las leyes de Kirchhoff y leyes de Ohm son muy aproximados a los valores medidos, ya que el porcentaje de error del voltaje y la corriente son menores al 1%.
 
 Las leyes de voltaje y corriente de Kirchhoff son herramientas esenciales para la resolución de circuitos eléctricos,ya que nos ayudan a determinar valores de voltaje y corriente y resolver sin mayores complicaciones circuitos eléctricos que serían demasiado complejos de analizar y así poder analizar gran variedad de circuitos eléctricos.
 
