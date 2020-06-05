@@ -48,22 +48,6 @@ Para este laboratorio se utilizó un circuito mixto en donde encontramos que las
 
 ## 5. LISTA DE COMPONENTES
 
-1 Fuente de Voltaje 
-
-2 Multímetros digitales 
-
-1 Resistencia de 1 kΩ
-
-2 resistores de 2,2 kΩ
-
-1 Resistencia de 1,8 kΩ
-
-1 resistencia de 3,9 kΩ
-
-1 Protoboard
-
-## 6. MAPA DE VARIABLES 
-
 | CANTIDAD| ELEMENTO |
 | ------- | -------------|
 | 1       | Fuente de Voltaje  |
@@ -73,6 +57,10 @@ Para este laboratorio se utilizó un circuito mixto en donde encontramos que las
 | 1       | Resistencia de 1,8 kΩ  |
 | 1       | Resistencia de 3,9  kΩ |
 | 1       | Protoboard                    |
+
+## 6. MAPA DE VARIABLES 
+
+
 
 ## 7. EXPLICACIÓN CÓDIGO DE FUENTE
 
