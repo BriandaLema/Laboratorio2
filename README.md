@@ -3,7 +3,7 @@
 TEMA: LEYES DE KIRCHHOFF
 ## 1. OBJETIVOS
 
-**1,1.- GENERALES** 
+**1,1.- GENERAL** 
 
 * Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes. 
 
@@ -13,7 +13,12 @@ TEMA: LEYES DE KIRCHHOFF
 * Identificar las diferencias de calculo entre un circuito simulado y teorico.
 * Differenciar cuales son las mallas, los nodos y las ramas del sistema.
 
-## 2. MARCO TEÓRICO 
+## 2. PLANTEAMIENTO DEL PROBLEMA
+
+Este proyecto consistió en la implementación de un circuito electrónico virtual en un programa online denominado Tinkercad con la finalidad de experimentar una simulación del circuito donde podemos denotar el cálculo de las de voltajes y corrientes en los resistores al medir con un voltímetro y un amperímetro cada uno de ellos, para consecutivamente compararlo con la medición manual de los valores teóricos de corriente y voltaje en cada resistor, mediante un sistema de ecuaciones que se formaron al realizar la ley de mallas. 
+
+
+## 3. MARCO TEÓRICO 
 
 **LEYES DE KIRCHHOFF**
 
@@ -35,13 +40,13 @@ La ley de voltaje de Kirchhoff (LVK) establece que la suma algebraica de las ca�
 Tomemos en cuenta que la caída de voltaje sucede cuando el voltaje pasa a través de un componente y a su salida obtiene un valor menor que el inicial.
 
 
-## 3. DIAGRAMAS
+## 4. DIAGRAMAS
 
 Para este laboratorio se utilizó un circuito mixto en donde encontramos que las resistencias R2 y  la suma de las resistencias R4 y  R3  hacen un circuito en paralelo y las resistencias restantes forman un circuito en serie, esta unión de dos circuitos es lo que nos hace llamarlo  MIXTO
 
 ![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/Terrific%20Albar.png)
 
-## 4. LISTA DE COMPONENTES
+## 5. LISTA DE COMPONENTES
 
 1 Fuente de Voltaje 
 
@@ -57,21 +62,28 @@ Para este laboratorio se utilizó un circuito mixto en donde encontramos que las
 
 1 Protoboard
 
+## 6. MAPA DE VARIABLES 
 
-## 5. EXPLICACIÓN CÓDIGO DE FUENTE
+
+
+## 7. EXPLICACIÓN CÓDIGO DE FUENTE
 
 Para este laboratorio utilizamos el simulador de Tinkercad , el cual es un sofware de diseño de circuitos, en este dispositivo encontramos una gama alta de componentes electrónicos que se utilizan para la creación de circuitos y simular su funcionamiento.
 Tinkercad funciona directamente en un navegador web moderno por lo cual una conexión a internet es fundamental para la utilización de esta fuente. 
-
 El mismo programa nos guía y asesora acerca de lo que realizamos, por lo cual la utilizacion de esta fuente es muy práctica si tienes un conocimiento básico sobre circuitos eléctricos.Una herramienta característica de Tinkercad es quemientras la simulación está en marcha podemos ir modificando las variables de cada elemento y ver los cambios en el momento. También podemos obtener una lista con los materiales empleado  que nos sirvio para realizar las fichas técnicas.
 
 
 
-## 6.- DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
+## 8. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
+
+Fundamentalmente los prerrequisitos que requiere este laboratorio sería: un dispositivo tegnológico (sea un teléfono, una pc, un tableta, entre otras); pues trabajamos en un simulador online, nuestro segundo requisito es acceso a internet y finalmente tener conocimientos básicos sobre las leyes aplicadas, los componentes, elementos y variables que se utiliza para la creación del circuito.
+
+
+## 9.APORTACIONES
 
 Para complementar la correcta cuantificacion de valores calculados y valores medidos se utilizo una aplicación más denominada Multisim, que es un programa que se debe instalar en un sistema inteligente para poder hacer una grafica y simulación de un circuito.
 
-## 7.- CONCLUSIONES
+## 10. CONCLUSIONES
 
 **ANÁLISIS DE RESULTADOS Y CÁLCULO DEL ERROR**
 
@@ -128,34 +140,23 @@ Las leyes de voltaje y corriente de Kirchhoff son herramientas esenciales para l
 
 Hay una pequeña diferencia entre los valores medidos y calculados, se podría dar por dos razones : al momento de medir con el multímetro los valores de  los voltajes y  las corrientes, intervienen las tolerancias de las resistencias, y esto podría afectar a los valores obtenidos; mientras que en los valores calculados intervienen los decimales al momento de ir desarrollando los cálculos correspondientes,  lo cual también afectaría los valores que vamos obteniendo. 
 
-## 8.- RECOMENDACIONES
+## 11. RECOMENDACIONES
 
-Consideramos importante el recomendar un mejor sistema de explicación acerca del trabajo a realizar.
+Recomendamos el asegurarse del correcto cálculo de los valores de manera clara y ordenada, de lo contrario, tendríamos un % de error excesivo.
+Así mismo se recomienda cerciorarse de que la implementación de circuito este correctamente elaborado y conectado a una fuente de energía para poder procede a la medición de datos virtuales.
 
-Una recomendación fundamental que proponemos es el ampliar la busqueda de simuladores para poder realizar los laboratios virtuales, pues al no encontrarnos fisicamente con algunos componentes se nos hace mas complejo un correcto aprendizaje 
 
-## 9.- BIBLIOGRAFÍA
+## 12. BIBLIOGRAFÍA
 
 Charles, A., & Matthew, S. (2006). Fundamentos de circuitos eléctricos. México, D.F.: McGraw-Hill/Interamericana Editores, S.A. de C.V.
 
 GÓMEZ, A. J. (2009). Fundamentos de Circuitos. Bogotá: Ediciones Uniandes.
 
-## 10.- ANEXOS
+## 13.- ANEXOS
 
-![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/Calculo%20de%20intensidad%20y%20voltaje1.jpg)
+https://github.com/BriandaLema/Laboratorio1/blob/master/Anexos/ANEXOS.pdf
 
-![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/Calculo%20de%20intensidad%20y%20voltaje2.jpg)
-
-![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/Calculo%20de%20intensidad%20y%20voltaje3.jpg)
-
-![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/C%C3%A1lculo%20LVK.jpg)
-
-![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/C%C3%A1lculo%20LCK.jpg)
-
-![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/C%C3%A1lculo%20LCK2.jpg)
-
-
-## 10,1.- HOJAS TECNICAS
+## 13,1.- HOJAS TECNICAS
 
 https://github.com/BriandaLema/Laboratorio1/tree/master/Hojas%20t%C3%A9cnicas
 
