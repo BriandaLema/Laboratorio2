@@ -101,6 +101,56 @@ TRAYECTORIA 1
 | VR5 (V) | 3.699 | 3.70 | 
 | ∑ V | -10.002 | -10 |
 
+TRAYECTORIA 2
+
+| VOLTAJE | CALCULADO | MEDIDO |
+|-----|------|------|
+| VT (V) | 8.496 | 8.49 |
+| VR1 (V) | - | - | 
+| VR2 (V) | 4.248 | 4.25 |
+| VR3 (V) | 2.125 | 2.12 |
+| VR4 (V) | 2.123 | 2.12 | 
+| VR5 (V) | - | - | 
+| ∑ V | 0 | 0.01 |
+
+TRAYECTORIA 3
+
+| VOLTAJE | CALCULADO | MEDIDO |
+|-----|------|------|
+| VT (V) | 10.002 | 9.99 |
+| VR1 (V) | 2.055 | 2.05 | 
+| VR2 (V) | - | - |
+| VR3 (V) | 2.125 | 2.12 |
+| VR4 (V) | 2.123 | 2.12 | 
+| VR5 (V) | 3.699 | 3.70 | 
+| ∑ V | -10.002 | -9.99 |
+
+- VERIFICACIÓN DE LA LCK
+
+NODO 1 
+
+| VOLTAJE | CALCULADO | MEDIDO |
+|----------|------|-------|
+| IT (mA) | 4.11 | 4.105 |
+| IR1 (mA) | 2.055 | 2.05 | 
+| IR2 (mA) | 1.089 | 1.09 |
+| IR3 (mA) | 0.966 | 0.965 |
+| IR4 (mA) | - | - | 
+| IR5 (mA) | - | - | 
+| ∑ I | 0 | -0.005 |
+
+NODO 2
+
+| VOLTAJE | CALCULADO | MEDIDO |
+|----------|------|-------|
+| IT (mA) | 4.11 | 4.105 |
+| IR1 (mA) | - | - | 
+| IR2 (mA) | 1.089 | 1.09 |
+| IR3 (mA) | - | - |
+| IR4 (mA) | 0.966 | 0.965 | 
+| IR5 (mA) | 2.055 | 2.05 | 
+| ∑ I | 0 | 0.005 |
+
 - RESULTADOS OBTENIDOS DE VOLTAJE Y CORRIENTE EN CADA ELEMENTO DEL CIRCUITO 
 
 | VARIABLE | VALOR CALCULADO | VALOR MEDIDO |
