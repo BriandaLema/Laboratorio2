@@ -83,13 +83,18 @@ Para complementar la correcta cuantificacion de valores calculados y valores med
 | ------------- | ------------- | ------------ |
 | VR1 (V)  | 2.0544 V  |  2.05 V  |
 | IR1 (mA)  | 2.0544 mA  |  2.05 mA  |
-|
+| VR2 (V)  |  4.2475 V  |  4.25 V  |
+| IR2 (mA)  |  1.089 mA  |  1.09 mA  |
+| VR3 (V)  |  2.1235 V  |  2.12 V  |
+| IR3 (mA)  |  0.9653 mA  |  0.956 mA  |
+| VR4 (V)  |  2.1235 V  |  2.12 V  |
+| IR4 (mA)  |  0.9653 mA  |  0.965 mA  |
+| VR5 (V)  | 3.6979 V  |  3.70 V  |
+| IR5 (mA)  |  2.0544 mA  |  2.05 mA  |
 
 - CÁLCULO DEL ERROR 
 
-%error=((Valor teórico-Valor medido)
-
-Valor teórico)*100
+%error=((Valor teórico-Valor medido)/Valor teórico)*100
 
 %error=((
 
