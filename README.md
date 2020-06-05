@@ -124,26 +124,25 @@ Para complementar la correcta cuantificacion de valores calculados y valores med
 
 %error= 0.244 % 
 
-Como podemos observar los valores de la corriente y voltaje en cada elemento del circuito calculados con las leyes de Kirchhoff son muy aproximados a los valores medidos, ya que el porcentaje de error del voltaje y la corriente son menores al 1%
-.
+Como podemos observar los valores de la corriente y voltaje en cada elemento del circuito calculados con las leyes de Kirchhoff son muy aproximados a los valores medidos, ya que el porcentaje de error del voltaje y la corriente son menores al 1%.
+
 Las leyes de voltaje y corriente de Kirchhoff son herramientas esenciales para la resolución de circuitos eléctricos,ya que nos ayudan a determinar valores de voltaje y corriente y resolver sin mayores complicaciones circuitos eléctricos que serían demasiado complejos de analizar y así poder analizar gran variedad de circuitos eléctricos.
 
 Hay una pequeña diferencia entre los valores medidos y calculados, se podría dar por dos razones : al momento de medir con el multímetro los valores de  los voltajes y  las corrientes, intervienen las tolerancias de las resistencias, y esto podría afectar a los valores obtenidos; mientras que en los valores calculados intervienen los decimales al momento de ir desarrollando los cálculos correspondientes,  lo cual también afectaría los valores que vamos obteniendo. 
- g
 
-8.- RECOMENDACIONES
+##8.- RECOMENDACIONES
 
 Consideramos importante el recomendar un mejor sistema de explicación acerca del trabajo a realizar.
 
 Una recomendación fundamental que proponemos es el ampliar la busqueda de simuladores para poder realizar los laboratios virtuales, pues al no encontrarnos fisicamente con algunos componentes se nos hace mas complejo un correcto aprendizaje 
 
-9.- BIBLIOGRAFÍA
+##9.- BIBLIOGRAFÍA
 
 Charles, A., & Matthew, S. (2006). Fundamentos de circuitos eléctricos. México, D.F.: McGraw-Hill/Interamericana Editores, S.A. de C.V.
 
 GÓMEZ, A. J. (2009). Fundamentos de Circuitos. Bogotá: Ediciones Uniandes.
 
-10.- ANEXOS
+##10.- ANEXOS
 
 ![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/Calculo%20de%20intensidad%20y%20voltaje1.jpg)
 
@@ -158,7 +157,7 @@ GÓMEZ, A. J. (2009). Fundamentos de Circuitos. Bogotá: Ediciones Uniandes.
 ![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/C%C3%A1lculo%20LCK2.jpg)
 
 
-10,1.- HOJAS TECNICAS
+##10,1.- HOJAS TECNICAS
 
 https://github.com/BriandaLema/Laboratorio1/tree/master/Hojas%20t%C3%A9cnicas
 
