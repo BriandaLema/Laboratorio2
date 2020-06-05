@@ -209,6 +209,7 @@ Finalmente sugerimos implementar adecuadamente el uso del multímetro para el c�
 
 ## 12. CRONOGRAMA
 
+![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/CRONOGRAMA.jpg)
 
 ## 13. BIBLIOGRAFÍA
 
