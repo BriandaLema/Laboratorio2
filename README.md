@@ -13,7 +13,7 @@ TEMA: Análisis de mallas
 
 * Comparar los valores medidos con los valores calculados en el circuito y establecer el porcentaje de error resultante.
 
-* Aplicar el uso de las leyes de voltaje de Kirchoff  para el análisis de mallas.
+* Aplicar el uso de las leyes de voltaje de Kirchhoff  para el análisis de mallas.
 
 
 ## 2. PLANTEAMIENTO DEL PROBLEMA
