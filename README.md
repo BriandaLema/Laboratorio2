@@ -9,6 +9,12 @@ TEMA: Análisis de mallas
 
 **1,2.-ESPECÍFICOS**
 
+* Examinar el funcionamiento de un circuito mixto con 2 fuentes de voltaje.
+
+* Comparar los valores medidos con los valores calculados en el circuito y establecer el porcentaje de error resultante.
+
+* Aplicar el uso de las leyes de voltaje de Kirchoff  para el análisis de mallas.
+
 
 ## 2. PLANTEAMIENTO DEL PROBLEMA
 
@@ -17,27 +23,30 @@ Este proyecto consistió en la implementación de un circuito electrónico virtu
 
 ## 3. MARCO TEÓRICO 
 
-**LEYES DE KIRCHHOFF**
 
-Las leyes de Kirchhoff fueron planteadas por Gustav Kirchhoff en 1845, en la actualidad son muy utilizadas en la física eléctrica para obtener los valores de la corriente y voltaje en cada uno de los puntos de un circuito eléctrico.
-Estas leyes escriben el comportamiento de la corriente en un nodo , y el voltaje alrededor de una trayectoria cerrada, estos dos planteamientos , junto con las ecuaciones de componentes individuales como resistores, capacitores, entre otros, obtenemos un conjunto de herramientas básicas para el análisis de circuitos.
+**MALLA EN UN CIRCUITO ELÉCTRICO**
+
+Una malla es cualquier trayectoria cerrada de un circuito eléctrico, formado por elementos del mismo circuito.
 
 ![](https://github.com/BriandaLema/Laboratorio2/blob/master/img/Mallas%20en%20un%20circuito.jpg)
 
-**LEY DE CORRIENTE DE KIRCHHOFF** 
+En la gráfica existen 4 mallas ,es decir 4 caminos cerrados dentro del circuito, donde intervienen resistencias y fuentes de voltaje.
 
-La ley de corriente de Kirchhoff (LCK) establece que la suma algebraica de todas las corrientes que ingresan hacia un nodo es igual a la suma algebraica de las corrientes que salen del nodo. Es decir: 
+**MÉTODO DE LA CORRIENTE DE MALLA**
+ 
+El método de la corriente de malla se basa en la ley de voltaje de Kirchhoff , y según esta ley establece que la sumatoria de los voltajes en una malla es igual a cero.Es decir: si multiplicamos cada resistencia de en la malla por las corrientes de malla, al sumar los voltajes el total debe ser cero. Si no existe una fuente de corriente o voltaje en una malla , asumimos que la corriente fluye en sentido horario.
 
-∑i(ingresan)=∑i(salen)
+En el siguiente diagrama podemos representar las corrientes de la siguiente manera:
 
-**LEY DE VOLTAJE DE KIRCHHOFF**
+![](https://github.com/BriandaLema/Laboratorio2/blob/master/img/Sentido%20de%20las%20corrientes.jpg)
 
-La ley de voltaje de Kirchhoff (LVK) establece que la suma algebraica de las caídas de voltaje en una trayectoria cerrada es igual a cero. Es decir: 
+Observemos que en la malla 1 la corriente va en sentido horario ya que sale del positivo de la fuente, en las mallas 2 y 3 no existe fuente, así que se asume que va en sentido horario y en la malla 4 la corriente va en sentido anti horario ya que sale  del lado positivo de la fuente de voltaje.
 
-∑Vi(t)=0
+Luego de establecer el sentido de las corrientes procedemos a colocar signos de polaridad a las resistencias por cada malla, para esto debemos tomar en cuenta que para todas las resistencias la terminal donde entra la corriente llevará un signo positivo y donde sale la corriente llevará un signo negativo, esto se realiza para facilitar la resolución del problema. Y quedaría de la siguiente manera: 
 
-Tomemos en cuenta que la caída de voltaje sucede cuando el voltaje pasa a través de un componente y a su salida obtiene un valor menor que el inicial.
+![](https://github.com/BriandaLema/Laboratorio2/blob/master/img/Polaridad%20de%20las%20resistencias.jpg)
 
+Ya una vez colocado los signos procedemos  a establecer las ecuaciones para cada malla. Al final obtendremos un sistema de ecuaciones, que lo podremos resolver mediante matrices, así obteniendo cada uno de los valores de las corrientes requeridas.
 
 ## 4. DIAGRAMAS
 
@@ -134,6 +143,10 @@ Para terminar podemos sugerir utilizar de manera adecuada en serie el uso del mu
 https://trello.com/b/0MUzNNnz/lab-2
 
 ## 13. BIBLIOGRAFÍA
+
+* Antony, G. G. (26 de Julio de 2013). PANAMAHITEK. Obtenido de http://panamahitek.com/ley-de-los-voltajes-de-kirchhoff-metodo-de-mallas/#:~:text=En%20un%20circuito%20el%C3%A9ctrico%2C%20una,formadas%20por%204%20caminos%20cerrados.&text=Si%20multiplicamos%20las%20corrientes%20de,el%20total%20debe%20ser%20cero.
+
+* Willi, M. (s.f.). KHAN ACADEMY. Obtenido de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
 
 
 
