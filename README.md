@@ -138,7 +138,7 @@ Para terminar podemos sugerir utilizar de manera adecuada en serie el uso del mu
 
 ## 12. CRONOGRAMA
 
-![](https://github.com/BriandaLema/Laboratorio2/blob/master/img/Cronograma%20(2).png)
+![](https://github.com/BriandaLema/Laboratorio2/blob/master/img/Cronograma.png)
 
 https://trello.com/b/0MUzNNnz/lab-2
 
