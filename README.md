@@ -22,7 +22,7 @@ Este proyecto consistió en la implementación de un circuito electrónico virtu
 Las leyes de Kirchhoff fueron planteadas por Gustav Kirchhoff en 1845, en la actualidad son muy utilizadas en la física eléctrica para obtener los valores de la corriente y voltaje en cada uno de los puntos de un circuito eléctrico.
 Estas leyes escriben el comportamiento de la corriente en un nodo , y el voltaje alrededor de una trayectoria cerrada, estos dos planteamientos , junto con las ecuaciones de componentes individuales como resistores, capacitores, entre otros, obtenemos un conjunto de herramientas básicas para el análisis de circuitos.
 
-<img src=https://raw.githubusercontent.com/BriandaLema/Laboratorio2/master/img/Mallas%20en%20un%20circuito.jpg?token=AP2F64ZM7LQ73C6ZHEAT6X26347QO>
+![](https://github.com/BriandaLema/Laboratorio2/blob/master/img/Mallas%20en%20un%20circuito.jpg)
 
 **LEY DE CORRIENTE DE KIRCHHOFF** 
 
