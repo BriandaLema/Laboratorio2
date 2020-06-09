@@ -58,9 +58,9 @@ Para este laboratorio se utilizó un circuito mixto en donde podemos diferenciar
 
 ## 6. MAPA DE VARIABLES 
 
-Variable: 
+Variables eléctricas: 
 * Corriente 
-* Recistores
+* Resistores
 
 ## 7. EXPLICACIÓN CÓDIGO DE FUENTE
 
