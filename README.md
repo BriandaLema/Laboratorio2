@@ -119,15 +119,15 @@ Conluimos generalmente que hay una pequeña diferencia entre los valores medidos
 
 Recomendamos el asegurarse del correcto cálculo de los valores de manera clara y ordenada, de lo contrario, tendríamos un % de error excesivo. Es muy importante asignar una corriente de malla a cada malla (sentido cualquiera) y asignar una polarización a cada elemento del circuito.
 
-Así mismo se recomienda cerciorarse de que la implementación de circuito este correctamente elaborado y conectado a una fuente de energía para poder procede a la medición de datos virtuales.
-
-Finalmente sugerimos implementar adecuadamente el uso del multímetro para el cálculo de las corrientes.
+Así mismo se recomienda cerciorarse de que la implementación de circuito este correctamente elaborado tal como está planteado.
+Para terminar podemos sugerir utilizar de manera adecuada en serie el uso del multímetro para el cálculo de las corrientes.
 
 
 ## 12. CRONOGRAMA
 
-![](https://github.com/BriandaLema/Laboratorio1/blob/master/img/CRONOGRAMA.jpg)
-https://trello.com/b/buudK5Rh/laboratorio-1
+![](https://github.com/BriandaLema/Laboratorio2/blob/master/img/Cronograma%20(2).png)
+
+https://trello.com/b/0MUzNNnz/lab-2
 
 ## 13. BIBLIOGRAFÍA
 
